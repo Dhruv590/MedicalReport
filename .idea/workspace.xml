@@ -1,7 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c9eaf226-b4cc-4a30-98e0-5ff9bc1327d0" name="Default Changelist" comment="" />
+    <list default="true" id="c9eaf226-b4cc-4a30-98e0-5ff9bc1327d0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/visit/apis.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/visit/endpoints.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/visit/serializers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/MedicalReport.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/MedicalReport.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MedicalReport/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/MedicalReport/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MedicalReport/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/MedicalReport/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirement.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirement.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_manager/endpoints.py" beforeDir="false" afterPath="$PROJECT_DIR$/user_manager/endpoints.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_manager/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_manager/migrations/0002_doctoprofile_hostel_studentprofile.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_manager/migrations/0003_customuser_is_staff.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_manager/migrations/0004_auto_20200223_1211.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_manager/migrations/0005_auto_20200223_1218.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_manager/migrations/0006_studentprofile_assigned_doctor.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_manager/migrations/0007_auto_20200223_1226.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_manager/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/user_manager/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/visit/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/visit/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/visit/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/visit/models.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +38,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1YCrHtC9VczouHocxOdkup8FJkM" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -22,31 +49,47 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Docvisit" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.django.DjangoModulesConfigurable" />
   </component>
   <component name="RunManager">
-    <configuration name="MedicalReport" type="PythonConfigurationType" factoryName="Python">
+    <configuration name="MedicalReport" type="Python.DjangoServer" factoryName="Django server">
       <module name="MedicalReport" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="MedicalReport.settings" />
       </envs>
-      <option name="SDK_HOME" value="/usr/bin/python3.6" />
+      <option name="SDK_HOME" value="$PROJECT_DIR$/venv/bin/python" />
       <option name="WORKING_DIRECTORY" value="" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
       <method v="2" />
     </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -58,13 +101,18 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1582457332700</updated>
+      <workItem from="1582549829168" duration="3520000" />
     </task>
     <servers />
   </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="451" y="210" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582465333930">
-      <screen x="67" y="27" width="1853" height="1053" />
+    <state x="348" y="194" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582550222154">
+      <screen x="0" y="23" width="1680" height="985" />
     </state>
+    <state x="348" y="194" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1680.985@0.23.1680.985" timestamp="1582550222154" />
     <state x="451" y="210" key="#com.intellij.execution.impl.EditConfigurationsDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1582465333930" />
     <state x="689" y="292" width="598" height="390" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1582459164021">
       <screen x="67" y="27" width="1853" height="923" />
@@ -83,9 +131,26 @@
     </state>
     <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1582463210302" />
     <state x="776" y="275" key="FileChooserDialogImpl/67.27.1853.923@67.27.1853.923" timestamp="1582459212753" />
-    <state x="482" y="187" key="SettingsEditor" timestamp="1582465604138">
-      <screen x="67" y="27" width="1853" height="1053" />
+    <state width="1638" height="266" key="GridCell.Tab.0.bottom" timestamp="1582552348683">
+      <screen x="0" y="23" width="1680" height="985" />
     </state>
+    <state width="1638" height="266" key="GridCell.Tab.0.bottom/0.23.1680.985@0.23.1680.985" timestamp="1582552348683" />
+    <state width="1638" height="266" key="GridCell.Tab.0.center" timestamp="1582552348682">
+      <screen x="0" y="23" width="1680" height="985" />
+    </state>
+    <state width="1638" height="266" key="GridCell.Tab.0.center/0.23.1680.985@0.23.1680.985" timestamp="1582552348682" />
+    <state width="1638" height="266" key="GridCell.Tab.0.left" timestamp="1582552348681">
+      <screen x="0" y="23" width="1680" height="985" />
+    </state>
+    <state width="1638" height="266" key="GridCell.Tab.0.left/0.23.1680.985@0.23.1680.985" timestamp="1582552348681" />
+    <state width="1638" height="266" key="GridCell.Tab.0.right" timestamp="1582552348682">
+      <screen x="0" y="23" width="1680" height="985" />
+    </state>
+    <state width="1638" height="266" key="GridCell.Tab.0.right/0.23.1680.985@0.23.1680.985" timestamp="1582552348682" />
+    <state x="376" y="173" key="SettingsEditor" timestamp="1582549953343">
+      <screen x="0" y="23" width="1680" height="985" />
+    </state>
+    <state x="376" y="173" key="SettingsEditor/0.23.1680.985@0.23.1680.985" timestamp="1582549953343" />
     <state x="482" y="187" key="SettingsEditor/67.27.1853.1053@67.27.1853.1053" timestamp="1582465604138" />
     <state x="482" y="167" key="SettingsEditor/67.27.1853.923@67.27.1853.923" timestamp="1582459105366" />
     <state x="649" y="336" key="com.intellij.ide.util.TipDialog" timestamp="1582545327880">

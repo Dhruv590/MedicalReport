@@ -1,5 +1,7 @@
 from django.db import models
 from user_manager.models import *
+from django.dispatch.dispatcher import receiver
+from django.db.models.signals import post_delete, pre_delete, pre_save, post_save
 
 
 # Create your models here.
@@ -100,3 +102,17 @@ class Treatment(models.Model):
         return str(self.visit)
 
 
+class Report(models.Model):
+    visit = models.ForeignKey(Visit,
+                              unique=True,
+                              on_delete=models.CASCADE,
+                              related_name='report_visit')
+    summary = models.CharField(max_length=250)
+
+    def __str__(self):
+        return str(self.visit)
+
+
+@receiver(post_save, sender=Report)
+def send_email_after_report_save(sender, instance, *args, **kwargs):
+    print('Write code to send email to parent and dean here.')
