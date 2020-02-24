@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c9eaf226-b4cc-4a30-98e0-5ff9bc1327d0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YCrHtC9VczouHocxOdkup8FJkM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Docvisit" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration name="MedicalReport" type="PythonConfigurationType" factoryName="Python">
+      <module name="MedicalReport" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/bin/python3.6" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c9eaf226-b4cc-4a30-98e0-5ff9bc1327d0" name="Default Changelist" comment="" />
+      <created>1582457332700</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582457332700</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="451" y="210" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582465333930">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="451" y="210" key="#com.intellij.execution.impl.EditConfigurationsDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1582465333930" />
+    <state x="689" y="292" width="598" height="390" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1582459164021">
+      <screen x="67" y="27" width="1853" height="923" />
+    </state>
+    <state x="689" y="292" width="598" height="390" key="#com.intellij.fileTypes.FileTypeChooser/67.27.1853.923@67.27.1853.923" timestamp="1582459164021" />
+    <state x="576" y="205" width="824" height="564" key="DBNavigator.DatasetFilterDialog" timestamp="1582459267920">
+      <screen x="67" y="27" width="1853" height="923" />
+    </state>
+    <state x="576" y="205" width="824" height="564" key="DBNavigator.DatasetFilterDialog/67.27.1853.923@67.27.1853.923" timestamp="1582459267920" />
+    <state x="526" y="145" width="924" height="684" key="DBNavigator.ProjectSettingsDialog" timestamp="1582459219765">
+      <screen x="67" y="27" width="1853" height="923" />
+    </state>
+    <state x="526" y="145" width="924" height="684" key="DBNavigator.ProjectSettingsDialog/67.27.1853.923@67.27.1853.923" timestamp="1582459219765" />
+    <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl" timestamp="1582463210302">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1582463210302" />
+    <state x="776" y="275" key="FileChooserDialogImpl/67.27.1853.923@67.27.1853.923" timestamp="1582459212753" />
+    <state x="482" y="187" key="SettingsEditor" timestamp="1582465604138">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="482" y="187" key="SettingsEditor/67.27.1853.1053@67.27.1853.1053" timestamp="1582465604138" />
+    <state x="482" y="167" key="SettingsEditor/67.27.1853.923@67.27.1853.923" timestamp="1582459105366" />
+    <state x="649" y="336" key="com.intellij.ide.util.TipDialog" timestamp="1582545327880">
+      <screen x="67" y="27" width="1853" height="923" />
+    </state>
+    <state x="649" y="380" key="com.intellij.ide.util.TipDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1582523258239" />
+    <state x="649" y="336" key="com.intellij.ide.util.TipDialog/67.27.1853.923@67.27.1853.923" timestamp="1582545327880" />
+    <state x="656" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1582535307435">
+      <screen x="67" y="27" width="1853" height="923" />
+    </state>
+    <state x="656" y="225" width="672" height="678" key="search.everywhere.popup/67.27.1853.923@67.27.1853.923" timestamp="1582535307435" />
+  </component>
+</project>
